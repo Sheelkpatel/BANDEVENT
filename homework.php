@@ -197,7 +197,7 @@
 
 
            <div class="mac13" >
-          <img src="map.jpeg" >
+          <img src="Assets/map.jpeg" >
            </div>
   
 
